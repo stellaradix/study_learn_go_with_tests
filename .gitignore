@@ -1,0 +1,13 @@
+# Custom whitelist about Go
+*
+!*/
+
+!.gitattributes
+!.gitignore
+!README.md
+
+!*.go
+!go.mod
+!go.sum
+!go.work
+!go.work.sum
