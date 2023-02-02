@@ -1,0 +1,5 @@
+go 1.19
+
+use (
+	./01_go_fundamentals/01_hello_world/01_hello_world
+)
